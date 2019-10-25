@@ -1,5 +1,5 @@
 // only need if you are being rate limited
-const id = "YOUR_CLIENT_ID"
+const id = "YOUR_ID"
 const sec = "YOUR_SECRET_ID"
 const params = `?client_id=${id}&client_secret=${sec}`
 //
