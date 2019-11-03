@@ -11,5 +11,5 @@ An app made with React that allows users to view popular repos from Github and c
 
 ## Dependencies
 ---
-React, React-dom, React-icons, Prop-types.
-devDependencies: @babel/core, @babel/preset-env, @babel/preset-react, babel-loader, css-loader, html-webpack-plugin, style-loader, webpack, webpack-cli, webpack-dev-server
+React, React-dom, React-icons, Prop-types, query-string, react-router-dom
+devDependencies: @babel/core, @babel/preset-env, @babel/preset-react, babel-loader, css-loader, html-webpack-plugin, style-loader, webpack, webpack-cli, webpack-dev-server,
