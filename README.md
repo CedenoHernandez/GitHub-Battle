@@ -1,6 +1,6 @@
 # Github Battle
 ---
-An app made with React that allows users to view popular repos from Github and compare stats. Completed as part of Tyler McGinnis' web course on React.
+An app made with React that allows users to view popular repos from Github and compare stats. Completed as part of Tyler McGinnis' web course on React. Note: code completed by following along with instructional videos at www.tylermcginnis.com 
 ## Installation:
 ---
 * Download the repository:
